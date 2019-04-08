@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT new_loc_segment_test__727.wsgi:application
